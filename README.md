@@ -13,7 +13,8 @@ https://t.me/Grupo2UmgBot
 
 ![WhatsApp Image 2021-06-10 at 7 05 39 PM](https://user-images.githubusercontent.com/39146100/121620856-4597a200-ca28-11eb-8d1b-3e7a8d005039.jpeg)
 
-# Configuracion del chatbot 
+# Configuracion del chatbot
+
 * se inicia chatbot @BotFather
 
 ![photo5051135364529498597](https://user-images.githubusercontent.com/39146100/121632196-cc0aae80-ca3d-11eb-8d98-980d8883923d.jpg)
@@ -32,6 +33,11 @@ https://t.me/Grupo2UmgBot
 * si el nombre es acepatdo el entrega un codigo para configurar u bot
 
 ![photo5051135364529498601](https://user-images.githubusercontent.com/39146100/121632927-1d676d80-ca3f-11eb-88a6-e366fc9a9b05.jpg)
+
+## Configuración Del lado de la pagina
+
+* Llenar el siguiente formato atravez de la web:
+
 
 
 # Configuraciones
