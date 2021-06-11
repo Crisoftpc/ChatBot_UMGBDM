@@ -4,6 +4,7 @@
 
 
 # Configuraciones
+![configuraciones](https://user-images.githubusercontent.com/39146100/121620947-74157d00-ca28-11eb-869c-7f29e1306002.PNG)
 
 
 # Casos De Uso
