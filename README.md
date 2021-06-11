@@ -47,9 +47,8 @@ En Scripts podemos agregar mensajes, y posibles respuestas, además permite dar 
 ![Script](https://user-images.githubusercontent.com/39146100/121622939-0f5c2180-ca2c-11eb-9186-55b77ae80f5c.PNG)
 
 
-
 Podemos agregar más de una opción
-
+![Opcion](https://user-images.githubusercontent.com/39146100/121623062-43cfdd80-ca2c-11eb-9299-9ebd903d55e1.PNG)
 
 Se pueden descargar los chats en diferentes formatos
 
