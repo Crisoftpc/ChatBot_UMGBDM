@@ -6,12 +6,14 @@
  Apoyar al cliente al momento de realizar una compra 
 
 # Aplicación a utilizar
+
 Este chat funciona con la aplicacion Telegram, a continuación se adjunta el url que corresponde, 
 se debe de tener en cuenta que cuenta con un requerimiento que es, la aplicacion funcionara unicamente para movil.
 
 https://t.me/Grupo2UmgBot
 
 ![WhatsApp Image 2021-06-10 at 7 05 39 PM](https://user-images.githubusercontent.com/39146100/121620856-4597a200-ca28-11eb-8d1b-3e7a8d005039.jpeg)
+
 
 # Configuracion del chatbot
 
@@ -34,6 +36,7 @@ https://t.me/Grupo2UmgBot
 
 ![photo5051135364529498601](https://user-images.githubusercontent.com/39146100/121632927-1d676d80-ca3f-11eb-88a6-e366fc9a9b05.jpg)
 
+
 ## Configuración Del lado de la pagina
 
 * Llenar el siguiente formato atravez de la web:
@@ -55,7 +58,20 @@ https://t.me/Grupo2UmgBot
 
 el sitio respondera de forma afirmativa a la peticion
 
+# Capturas del funcionamiento del app
+
+![photo5051135364529498605](https://user-images.githubusercontent.com/39146100/121633585-4ccaaa00-ca40-11eb-8a70-5f01814cef48.jpg)
+
+![photo5051135364529498606](https://user-images.githubusercontent.com/39146100/121633587-4d634080-ca40-11eb-8e77-de80854699dd.jpg)
+
+# Capturas del sitio web
+
+![photo5051135364529498607](https://user-images.githubusercontent.com/39146100/121633588-4dfbd700-ca40-11eb-9abb-bce4082893fe.jpg)
+
+![photo5051135364529498608](https://user-images.githubusercontent.com/39146100/121633589-4dfbd700-ca40-11eb-8a1c-049be34ae8aa.jpg)
+
 # Configuraciones
+
 ![configuraciones](https://user-images.githubusercontent.com/39146100/121620947-74157d00-ca28-11eb-869c-7f29e1306002.PNG)
 
 
@@ -66,6 +82,7 @@ En esta opción podremos darle un sentido a nuestro chatbot, seleccionamos la qu
 
 
 # Panel De Análisis
+
 Podemos ver el análisis de las conversaciones y mejorar la experiencia, según nuestra estadística de fallos y aciertos
 ![PanelDeAnalisis](https://user-images.githubusercontent.com/39146100/121621322-306f4300-ca29-11eb-96a9-fa345b4c1431.PNG)
 
