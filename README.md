@@ -44,6 +44,9 @@ En la opción de conversaciones podemos ver flas conversaciones que se han reali
 ![Fechayhora](https://user-images.githubusercontent.com/39146100/121622649-9b217e00-ca2b-11eb-8766-2d5e0c2e6b63.PNG)
 
 En Scripts podemos agregar mensajes, y posibles respuestas, además permite dar opciones de consulta y respuesta.
+![Script](https://user-images.githubusercontent.com/39146100/121622939-0f5c2180-ca2c-11eb-9186-55b77ae80f5c.PNG)
+
+
 
 Podemos agregar más de una opción
 
