@@ -15,6 +15,7 @@ https://t.me/Grupo2UmgBot
 
 # Configuracion del chatbot 
 * se inicia chatbot @BotFather
+![photo5051135364529498597](https://user-images.githubusercontent.com/39146100/121632196-cc0aae80-ca3d-11eb-8d98-980d8883923d.jpg)
 
 
 * Comando /NEW
