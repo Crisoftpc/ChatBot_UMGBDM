@@ -37,6 +37,7 @@ En habilidades podemos encontrar las opciones de información básica, ventas y 
 
 
 He ingresado a la opción información básica
+![OpcionBasica](https://user-images.githubusercontent.com/39146100/121622538-6c0b0c80-ca2b-11eb-8357-20cca42e5052.PNG)
 
 
 En la opción de conversaciones podemos ver flas conversaciones que se han realizado, fecha y hora, consulta y respuesta, además marca la puntuación de acierto. 
