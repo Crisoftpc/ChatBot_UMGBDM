@@ -15,7 +15,7 @@ https://t.me/Grupo2UmgBot
 
 # Configuracion del chatbot 
 * se inicia chatbot @BotFather
-*
+
 ![photo5051135364529498597](https://user-images.githubusercontent.com/39146100/121632196-cc0aae80-ca3d-11eb-8d98-980d8883923d.jpg)
 
 
@@ -29,7 +29,9 @@ https://t.me/Grupo2UmgBot
 ![photo5051135364529498600](https://user-images.githubusercontent.com/39146100/121632834-f315b000-ca3e-11eb-8dfe-b87286a36529.jpg)
 
 
-si el nombre es acepatdo el entrega un codigo para configurar u bot
+* si el nombre es acepatdo el entrega un codigo para configurar u bot
+
+![photo5051135364529498601](https://user-images.githubusercontent.com/39146100/121632927-1d676d80-ca3f-11eb-88a6-e366fc9a9b05.jpg)
 
 
 # Configuraciones
