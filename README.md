@@ -17,6 +17,11 @@ Podemos ver el análisis de las conversaciones y mejorar la experiencia, según 
 ![PanelDeAnalisis](https://user-images.githubusercontent.com/39146100/121621322-306f4300-ca29-11eb-96a9-fa345b4c1431.PNG)
 
 En esta opción se configuramos el nombre y el saludo inicial
+![PanelDeAnalisis2](https://user-images.githubusercontent.com/39146100/121621507-804e0a00-ca29-11eb-8ed9-1a852efc5c4a.PNG)
+
+
+Personalización, podemos cambiar colores, tipo de fuente y colocarle un icono
+
 
 
 
