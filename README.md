@@ -25,6 +25,7 @@ Personalización, podemos cambiar colores, tipo de fuente y colocarle un icono
 
 
 En esta opción podemos agregar nuevas respuestas a preguntas
+![Respuestas](https://user-images.githubusercontent.com/39146100/121622018-724cb900-ca2a-11eb-8187-37c6b7fcacef.PNG)
 
 
 En la opción respuesta se desplega esta plantilla, se coloca una posible consulta y su respuesta
