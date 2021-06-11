@@ -18,7 +18,10 @@ https://t.me/Grupo2UmgBot
 ![photo5051135364529498597](https://user-images.githubusercontent.com/39146100/121632196-cc0aae80-ca3d-11eb-8d98-980d8883923d.jpg)
 
 
-* Comando /NEW
+* Comando NEW
+
+![photo5051135364529498599](https://user-images.githubusercontent.com/39146100/121632327-06744b80-ca3e-11eb-94d0-a06a16dbecac.jpg)
+
 
 * Ingresar nombre de bot
 
