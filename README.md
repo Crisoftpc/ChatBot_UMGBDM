@@ -44,9 +44,13 @@ https://t.me/Grupo2UmgBot
 
 ![image](https://user-images.githubusercontent.com/39146100/121633229-a2eb1d80-ca3f-11eb-8301-be17be6bbb3f.png)
 
-* Al navigar con las URL el sitio respondera de la siguiente manera:
+* Al navegar con las URL el sitio respondera de la siguiente manera:
+*
+![photo5051135364529498603](https://user-images.githubusercontent.com/39146100/121633414-ff4e3d00-ca3f-11eb-825b-55f99ad980c5.jpg)
 
 * y para comprobar que el chatbot se encuentra bien. se debe de verificar  visitando:
+
+![photo5051135364529498604](https://user-images.githubusercontent.com/39146100/121633416-ffe6d380-ca3f-11eb-90b5-27e8db974657.jpg)
 
 
 el sitio respondera de forma afirmativa a la peticion
