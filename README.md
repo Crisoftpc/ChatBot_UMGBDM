@@ -24,6 +24,15 @@ Personalización, podemos cambiar colores, tipo de fuente y colocarle un icono
 ![Colores](https://user-images.githubusercontent.com/39146100/121621698-e76bbe80-ca29-11eb-87be-0547981103f4.PNG)
 
 
+En esta opción podemos agregar nuevas respuestas a preguntas
+
+
+En la opción respuesta se desplega esta plantilla, se coloca una posible consulta y su respuesta
+
+
+En habilidades podemos encontrar las opciones de información básica, ventas y apoyo, si ingresamos podremos agregar más información acerca del negocio.
+![image](https://user-images.githubusercontent.com/39146100/121621993-67922400-ca2a-11eb-9792-aa90630a2c63.png)
+
 
 
 
