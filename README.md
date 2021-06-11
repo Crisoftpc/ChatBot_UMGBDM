@@ -21,6 +21,7 @@ En esta opción se configuramos el nombre y el saludo inicial
 
 
 Personalización, podemos cambiar colores, tipo de fuente y colocarle un icono
+![Colores](https://user-images.githubusercontent.com/39146100/121621698-e76bbe80-ca29-11eb-87be-0547981103f4.PNG)
 
 
 
