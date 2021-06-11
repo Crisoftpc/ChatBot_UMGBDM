@@ -9,6 +9,7 @@
 
 # Casos De Uso
 En esta opción podremos darle un sentido a nuestro chatbot, seleccionamos la que más se acerque a lo que estamos creando y contestamos las preguntas que se generan.
+
 ![casosDeUso](https://user-images.githubusercontent.com/39146100/121621080-ae7f1a00-ca28-11eb-9ad7-616da38413b9.PNG)
 
 
