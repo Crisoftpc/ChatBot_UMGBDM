@@ -14,6 +14,10 @@ En esta opción podremos darle un sentido a nuestro chatbot, seleccionamos la qu
 
 # Panel De Análisis
 Podemos ver el análisis de las conversaciones y mejorar la experiencia, según nuestra estadística de fallos y aciertos
+![PanelDeAnalisis](https://user-images.githubusercontent.com/39146100/121621322-306f4300-ca29-11eb-96a9-fa345b4c1431.PNG)
+
+En esta opción se configuramos el nombre y el saludo inicial
+
 
 
 
