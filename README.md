@@ -1,7 +1,13 @@
 # Proyecto De Chatbot
 
+ Consiste en un chathatbot de e-commerce con  inteligencia artificial, específicamente la rama de machine learning. La cual consta de redes neuronales que se utilizaron para poder realizar dicho proyecto.
+ 
+ El objetivo principal es  :
+ Apoyar al cliente al momento de realizar una compra 
+
 # Aplicación a utilizar
-Este chat funciona con la aplicacion Telegram, a continuación se adjunta el url que corresponde
+Este chat funciona con la aplicacion Telegram, a continuación se adjunta el url que corresponde, 
+se debe de tener en cuenta que cuenta con un requerimiento que es, la aplicacion funcionara unicamente para movil.
 
 https://t.me/Grupo2UmgBot
 
