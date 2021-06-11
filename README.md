@@ -40,6 +40,9 @@ https://t.me/Grupo2UmgBot
 
 ![photo5051135364529498602](https://user-images.githubusercontent.com/39146100/121633130-7afbba00-ca3f-11eb-89d6-b7caf3037bb8.jpg)
 
+* El nuestro quedaria de la siguiente manera
+
+![image](https://user-images.githubusercontent.com/39146100/121633229-a2eb1d80-ca3f-11eb-8301-be17be6bbb3f.png)
 
 
 
