@@ -24,6 +24,7 @@ https://t.me/Grupo2UmgBot
 
 
 * Ingresar nombre de bot
+![photo5051135364529498600](https://user-images.githubusercontent.com/39146100/121632556-6a970f80-ca3e-11eb-9226-1ebe6da1de1f.jpg)
 
 si el nombre es acepatdo el entrega un codigo para configurar u bot
 
