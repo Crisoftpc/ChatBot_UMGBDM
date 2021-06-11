@@ -13,6 +13,16 @@ https://t.me/Grupo2UmgBot
 
 ![WhatsApp Image 2021-06-10 at 7 05 39 PM](https://user-images.githubusercontent.com/39146100/121620856-4597a200-ca28-11eb-8d1b-3e7a8d005039.jpeg)
 
+# Configuracion del chatbot 
+* se inicia chatbot @BotFather
+
+
+* Comando /NEW
+
+* Ingresar nombre de bot
+
+si el nombre es acepatdo el entrega un codigo para configurar u bot
+
 
 # Configuraciones
 ![configuraciones](https://user-images.githubusercontent.com/39146100/121620947-74157d00-ca28-11eb-869c-7f29e1306002.PNG)
