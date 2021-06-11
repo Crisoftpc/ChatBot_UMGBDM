@@ -41,7 +41,7 @@ He ingresado a la opción información básica
 
 
 En la opción de conversaciones podemos ver flas conversaciones que se han realizado, fecha y hora, consulta y respuesta, además marca la puntuación de acierto. 
-
+![Fechayhora](https://user-images.githubusercontent.com/39146100/121622649-9b217e00-ca2b-11eb-8766-2d5e0c2e6b63.PNG)
 
 
 
