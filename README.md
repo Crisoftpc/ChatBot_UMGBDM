@@ -1,5 +1,9 @@
 # Proyecto De Chatbot
 
+# Aplicación a utilizar
+Este chat funciona con la aplicacion Telegram, a continuación se adjunta el url que corresponde
+http://t.me/Grupo2UmgBot
+
 ![WhatsApp Image 2021-06-10 at 7 05 39 PM](https://user-images.githubusercontent.com/39146100/121620856-4597a200-ca28-11eb-8d1b-3e7a8d005039.jpeg)
 
 
