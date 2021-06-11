@@ -33,6 +33,7 @@ En la opción respuesta se desplega esta plantilla, se coloca una posible consul
 
 
 En habilidades podemos encontrar las opciones de información básica, ventas y apoyo, si ingresamos podremos agregar más información acerca del negocio.
+
 ![Habilidad](https://user-images.githubusercontent.com/39146100/121622299-00c13a80-ca2b-11eb-9fde-1e65c6516841.PNG)
 
 
@@ -52,6 +53,7 @@ Podemos agregar más de una opción
 
 Se pueden descargar los chats en diferentes formatos
 
+![Descarga](https://user-images.githubusercontent.com/39146100/121623132-66fa8d00-ca2c-11eb-8a64-7364ef3e681b.PNG)
 
 
 
