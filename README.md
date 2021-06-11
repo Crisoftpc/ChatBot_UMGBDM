@@ -38,6 +38,9 @@ https://t.me/Grupo2UmgBot
 
 * Llenar el siguiente formato atravez de la web:
 
+![photo5051135364529498602](https://user-images.githubusercontent.com/39146100/121633130-7afbba00-ca3f-11eb-89d6-b7caf3037bb8.jpg)
+
+
 
 
 # Configuraciones
